@@ -2,7 +2,7 @@
 # Since Feb 18, 2011
 # Based on Black-Scholes forumla for pricing options
 
-module OptionCalc
+module OptionsLibrary
   module Option
     class Put < Model
 
